@@ -1,0 +1,386 @@
+[
+    {
+        "Name": "Bandicam",
+        "Version": "7.0.0.2117",
+        "Publisher": "Bandicam.com",
+        "InstallLocation": "\"C:\\Program Files\\Bandicam\""
+    },
+    {
+        "Name": "Google Chrome",
+        "Version": "120.0.6099.72",
+        "Publisher": "Google LLC",
+        "InstallLocation": "C:\\Program Files\\Google\\Chrome\\Application"
+    },
+    {
+        "Name": "Microsoft Edge",
+        "Version": "120.0.2210.61",
+        "Publisher": "Microsoft Corporation",
+        "InstallLocation": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application"
+    },
+    {
+        "Name": "Microsoft Edge WebView2 Runtime",
+        "Version": "120.0.2210.61",
+        "Publisher": "Microsoft Corporation",
+        "InstallLocation": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application"
+    },
+    {
+        "Name": "Notepad++ (32-bit x86)",
+        "Version": "8.6",
+        "Publisher": "Notepad++ Team",
+        "InstallLocation": null
+    },
+    {
+        "Name": "Microsoft Visual C++ 2015 x86 Additional Runtime - 14.0.24123",
+        "Version": "14.0.24123",
+        "Publisher": "Microsoft Corporation",
+        "InstallLocation": ""
+    },
+    {
+        "Name": "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501",
+        "Version": "12.0.30501.0",
+        "Publisher": "Microsoft Corporation",
+        "InstallLocation": null
+    },
+    {
+        "Name": "Microsoft Visual C++ 2015 x86 Minimum Runtime - 14.0.24123",
+        "Version": "14.0.24123",
+        "Publisher": "Microsoft Corporation",
+        "InstallLocation": ""
+    },
+    {
+        "Name": "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005",
+        "Version": "12.0.21005",
+        "Publisher": "Microsoft Corporation",
+        "InstallLocation": ""
+    },
+    {
+        "Name": "Python Launcher",
+        "Version": "3.9.7806.0",
+        "Publisher": "Python Software Foundation",
+        "InstallLocation": ""
+    },
+    {
+        "Name": "Microsoft Visual C++ 2015 Redistributable (x86) - 14.0.24123",
+        "Version": "14.0.24123.0",
+        "Publisher": "Microsoft Corporation",
+        "InstallLocation": null
+    },
+    {
+        "Name": "Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.29.30133",
+        "Version": "14.29.30133.0",
+        "Publisher": "Microsoft Corporation",
+        "InstallLocation": null
+    },
+    {
+        "Name": "Known Issue Rollback Policy Definitions",
+        "Version": "1.0.0.0",
+        "Publisher": "Microsoft Corp",
+        "InstallLocation": ""
+    },
+    {
+        "Name": "V510 Series",
+        "Version": "1.00.00 OLP",
+        "Publisher": "V510 Series",
+        "InstallLocation": "C:\\Program Files (x86)\\V510 Series\\V510"
+    },
+    {
+        "Name": "ManageEngine UEMS - Agent",
+        "Version": "11.2.2315.9.W",
+        "Publisher": "ZohoCorp",
+        "InstallLocation": ""
+    },
+    {
+        "Name": "Zoom (32-bit)",
+        "Version": "5.16.26186",
+        "Publisher": "Zoom",
+        "InstallLocation": ""
+    },
+    {
+        "Name": "Spiceworks Agent",
+        "Version": "10.0.6.0",
+        "Publisher": "Spiceworks, Inc.",
+        "InstallLocation": ""
+    },
+    {
+        "Name": "ViTrox License Server",
+        "Version": "3.5.0.0",
+        "Publisher": "ViTrox",
+        "InstallLocation": "C:\\Program Files (x86)\\VitroxLicenseServer"
+    },
+    {
+        "Name": "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161",
+        "Version": "9.0.30729.6161",
+        "Publisher": "Microsoft Corporation",
+        "InstallLocation": ""
+    },
+    {
+        "Name": "Adobe Refresh Manager",
+        "Version": "1.8.0",
+        "Publisher": "Adobe Systems Incorporated",
+        "InstallLocation": "C:\\Program Files (x86)\\Common Files\\Adobe\\ARM\\1.0\\"
+    },
+    {
+        "Name": "Adobe Acrobat Reader MUI",
+        "Version": "22.003.20258",
+        "Publisher": "Adobe Systems Incorporated",
+        "InstallLocation": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\"
+    },
+    {
+        "Name": "V510 Series 1.5.0.12 Patch",
+        "Version": "1.5.0.12",
+        "Publisher": "V510 Series",
+        "InstallLocation": "D:\\INOLP"
+    },
+    {
+        "Name": "OpenOffice 4.1.14",
+        "Version": "4.114.9811",
+        "Publisher": "Apache Software Foundation",
+        "InstallLocation": "c:\\Program Files (x86)\\OpenOffice 4\\"
+    },
+    {
+        "Name": "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501",
+        "Version": "12.0.30501.0",
+        "Publisher": "Microsoft Corporation",
+        "InstallLocation": null
+    },
+    {
+        "Name": "V510 Series 1.04.08 Patch",
+        "Version": "1.04.08",
+        "Publisher": "V510 Series",
+        "InstallLocation": "C:\\Program Files (x86)\\V510 Series\\V510"
+    },
+    {
+        "Name": "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005",
+        "Version": "12.0.21005",
+        "Publisher": "Microsoft Corporation",
+        "InstallLocation": ""
+    },
+    {
+        "Name": "Sentinel System Driver Installer 7.5.0",
+        "Version": "7.5.0",
+        "Publisher": "SafeNet, Inc.",
+        "InstallLocation": "C:\\Program Files (x86)\\Common Files\\SafeNet Sentinel\\Sentinel System Driver\\"
+    },
+    {
+        "Name": "Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022",
+        "Version": "9.0.21022",
+        "Publisher": "Microsoft Corporation",
+        "InstallLocation": ""
+    },
+    {
+        "Name": "7-Zip 23.01 (x64)",
+        "Version": "23.01",
+        "Publisher": "Igor Pavlov",
+        "InstallLocation": "C:\\Program Files\\7-Zip\\"
+    },
+    {
+        "Name": "Endpoint Secure Agent",
+        "Version": "3.7.12EN",
+        "Publisher": "Sangfor Technologies inc.",
+        "InstallLocation": null
+    },
+    {
+        "Name": "Git",
+        "Version": "2.43.0",
+        "Publisher": "The Git Development Community",
+        "InstallLocation": "C:\\Program Files\\Git\\"
+    },
+    {
+        "Name": "Mozilla Thunderbird (x64 en-US)",
+        "Version": "115.1.0",
+        "Publisher": "Mozilla",
+        "InstallLocation": "C:\\Program Files\\Mozilla Thunderbird"
+    },
+    {
+        "Name": "Mozilla Maintenance Service",
+        "Version": "115.1.0",
+        "Publisher": "Mozilla",
+        "InstallLocation": null
+    },
+    {
+        "Name": "WinMerge 2.16.36.0 x64",
+        "Version": "2.16.36.0",
+        "Publisher": "Thingamahoochie Software",
+        "InstallLocation": "C:\\Program Files\\WinMerge\\"
+    },
+    {
+        "Name": "Python 3.9.13 Documentation (64-bit)",
+        "Version": "3.9.13150.0",
+        "Publisher": "Python Software Foundation",
+        "InstallLocation": ""
+    },
+    {
+        "Name": "Microsoft Update Health Tools",
+        "Version": "3.73.0.0",
+        "Publisher": "Microsoft Corporation",
+        "InstallLocation": ""
+    },
+    {
+        "Name": "Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161",
+        "Version": "9.0.30729.6161",
+        "Publisher": "Microsoft Corporation",
+        "InstallLocation": ""
+    },
+    {
+        "Name": "Python 3.9.13 Utility Scripts (64-bit)",
+        "Version": "3.9.13150.0",
+        "Publisher": "Python Software Foundation",
+        "InstallLocation": ""
+    },
+    {
+        "Name": "Microsoft Visual C++ 2019 X64 Minimum Runtime - 14.29.30133",
+        "Version": "14.29.30133",
+        "Publisher": "Microsoft Corporation",
+        "InstallLocation": ""
+    },
+    {
+        "Name": "Python 3.9.13 pip Bootstrap (64-bit)",
+        "Version": "3.9.13150.0",
+        "Publisher": "Python Software Foundation",
+        "InstallLocation": ""
+    },
+    {
+        "Name": "Python 3.9.13 Test Suite (64-bit)",
+        "Version": "3.9.13150.0",
+        "Publisher": "Python Software Foundation",
+        "InstallLocation": ""
+    },
+    {
+        "Name": "Python 3.9.13 Standard Library (64-bit)",
+        "Version": "3.9.13150.0",
+        "Publisher": "Python Software Foundation",
+        "InstallLocation": ""
+    },
+    {
+        "Name": "Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005",
+        "Version": "12.0.21005",
+        "Publisher": "Microsoft Corporation",
+        "InstallLocation": ""
+    },
+    {
+        "Name": "Python 3.9.13 Development Libraries (64-bit)",
+        "Version": "3.9.13150.0",
+        "Publisher": "Python Software Foundation",
+        "InstallLocation": ""
+    },
+    {
+        "Name": "Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005",
+        "Version": "12.0.21005",
+        "Publisher": "Microsoft Corporation",
+        "InstallLocation": ""
+    },
+    {
+        "Name": "Quick Access Service",
+        "Version": "3.00.3038",
+        "Publisher": "Acer Incorporated",
+        "InstallLocation": "C:\\Program Files\\Acer\\Quick Access Service\\"
+    },
+    {
+        "Name": "NVIDIA Graphics Driver 441.37",
+        "Version": "441.37",
+        "Publisher": "NVIDIA Corporation",
+        "InstallLocation": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\Display.Driver.{762CE0E2-DC20-4F3B-AA33-7D8B9AEB4C79}"
+    },
+    {
+        "Name": "NVIDIA Install Application",
+        "Version": "2.1002.334.1",
+        "Publisher": "NVIDIA Corporation",
+        "InstallLocation": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore"
+    },
+    {
+        "Name": "LibreOffice 7.4.7.2",
+        "Version": "7.4.7.2",
+        "Publisher": "The Document Foundation",
+        "InstallLocation": "C:\\Program Files\\LibreOffice\\"
+    },
+    {
+        "Name": "GlobalProtect",
+        "Version": "6.0.4",
+        "Publisher": "Palo Alto Networks",
+        "InstallLocation": ""
+    },
+    {
+        "Name": "Python 3.9.13 Add to Path (64-bit)",
+        "Version": "3.9.13150.0",
+        "Publisher": "Python Software Foundation",
+        "InstallLocation": ""
+    },
+    {
+        "Name": "Python 3.9.13 Executables (64-bit)",
+        "Version": "3.9.13150.0",
+        "Publisher": "Python Software Foundation",
+        "InstallLocation": ""
+    },
+    {
+        "Name": "Python 3.9.13 Core Interpreter (64-bit)",
+        "Version": "3.9.13150.0",
+        "Publisher": "Python Software Foundation",
+        "InstallLocation": ""
+    },
+    {
+        "Name": "Microsoft Visual C++ 2010  x64 Redistributable - 10.0.30319",
+        "Version": "10.0.30319",
+        "Publisher": "Microsoft Corporation",
+        "InstallLocation": ""
+    },
+    {
+        "Name": "Microsoft Visual C++ 2019 X64 Additional Runtime - 14.29.30133",
+        "Version": "14.29.30133",
+        "Publisher": "Microsoft Corporation",
+        "InstallLocation": ""
+    },
+    {
+        "Name": "Python 3.9.13 Tcl/Tk Support (64-bit)",
+        "Version": "3.9.13150.0",
+        "Publisher": "Python Software Foundation",
+        "InstallLocation": ""
+    },
+    {
+        "Name": "GitHub Desktop",
+        "Version": "3.1.1",
+        "Publisher": "GitHub, Inc.",
+        "InstallLocation": "C:\\Users\\hai-kent.kok\\AppData\\Local\\GitHubDesktop"
+    },
+    {
+        "Name": "Microsoft OneDrive",
+        "Version": "23.246.1127.0002",
+        "Publisher": "Microsoft Corporation",
+        "InstallLocation": null
+    },
+    {
+        "Name": "Microsoft Visual Studio Code (User)",
+        "Version": "1.85.1",
+        "Publisher": "Microsoft Corporation",
+        "InstallLocation": "C:\\Users\\hai-kent.kok\\AppData\\Local\\Programs\\Microsoft VS Code\\"
+    },
+    {
+        "Name": "Python 3.9.13 (64-bit)",
+        "Version": "3.9.13150.0",
+        "Publisher": "Python Software Foundation",
+        "InstallLocation": null
+    },
+    {
+        "Name": "GitHub Desktop",
+        "Version": "3.1.1",
+        "Publisher": "GitHub, Inc.",
+        "InstallLocation": "C:\\Users\\hai-kent.kok\\AppData\\Local\\GitHubDesktop"
+    },
+    {
+        "Name": "Microsoft OneDrive",
+        "Version": "23.246.1127.0002",
+        "Publisher": "Microsoft Corporation",
+        "InstallLocation": null
+    },
+    {
+        "Name": "Microsoft Visual Studio Code (User)",
+        "Version": "1.85.1",
+        "Publisher": "Microsoft Corporation",
+        "InstallLocation": "C:\\Users\\hai-kent.kok\\AppData\\Local\\Programs\\Microsoft VS Code\\"
+    },
+    {
+        "Name": "Python 3.9.13 (64-bit)",
+        "Version": "3.9.13150.0",
+        "Publisher": "Python Software Foundation",
+        "InstallLocation": null
+    }
+]
